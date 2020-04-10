@@ -10,7 +10,10 @@ public class Utility {
 		System.out.println("utility m1() method:1234");
 		System.out.println("samy");
 	}
+
 	public void m4() {
+	}
+	public void m3() {
 		
 	}
 }
